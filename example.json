@@ -4,5 +4,6 @@
  "telefono":"931634377",
  "dni":"45502489",
  "linea":"desde local",
- "linea":"desde github"
+ "linea":"desde github",
+ "lineaFetch":"remote"
 }
